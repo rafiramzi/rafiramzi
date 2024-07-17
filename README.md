@@ -29,6 +29,7 @@
   <li>MITM</li>
   <li>OSINT</li>
   <li>Web Penetration</li>
+  <li>Web Dorking</li>
   <li>Bruteforce</li>
   <li>RAT</li>
   <li>Malware</li>
