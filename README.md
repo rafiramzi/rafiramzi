@@ -27,6 +27,7 @@
 <b>Web penetration tools</b>
 <table>
   <tr>
+    <td><img src="https://static.wixstatic.com/media/3bb8b6_dbb77ee75d9a4cb1b8736b90ef4aa97f~mv2.png/v1/fill/w_640,h_342,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3bb8b6_dbb77ee75d9a4cb1b8736b90ef4aa97f~mv2.png" style="width:100px;"></td>
     <td><img src="https://www.thesslstores.com.au/content/images/cwatch-owasp-logo.svg" style="width:100px;"></td>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjH0fxjWMo6K-sWs6YsOpjl4-RA2cfrEiBbA&s" style="width:100px;"></td>
   </tr>
