@@ -24,16 +24,6 @@
   </tr>
 </table>
 <br>
-<b>Web penetration tools</b>
-<table>
-  <tr>
-    <td><img src="https://static.wixstatic.com/media/3bb8b6_dbb77ee75d9a4cb1b8736b90ef4aa97f~mv2.png/v1/fill/w_640,h_342,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3bb8b6_dbb77ee75d9a4cb1b8736b90ef4aa97f~mv2.png" style="width:100px;"></td>
-    <td><img src="https://www.thesslstores.com.au/content/images/cwatch-owasp-logo.svg" style="width:100px;"></td>
-    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjH0fxjWMo6K-sWs6YsOpjl4-RA2cfrEiBbA&s" style="width:100px;"></td>
-    <td><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqvdLHYP0JSYskR6vIaD-l3PAVzDVLrVL3PKl_V2cm56Z7IIKZQkHigkS57T_Z2TKoGWboDSiHbXp2ZQtfWWXDHJW84PLNMG9O5VXY1B0S6veKNnX-u0NQgtYwsHMTAHzVU09t3cTkaNv2gYgKi1pGkcMx-NxjeuEt5w47ZW80VOlHae91GrBuw-A_-YA/w0/SQLmap.png" style="width:100px;"></td>
-  </tr>
-</table>
-<br>
 <p>Cybersecurity Skills</p>
 <ul>
   <li>MITM</li>
@@ -50,6 +40,16 @@
   <li>Network</li>
   <li>Scraping</li>
 </ul>
+<br>
+<b>Web penetration tools</b>
+<table>
+  <tr>
+    <td><img src="https://static.wixstatic.com/media/3bb8b6_dbb77ee75d9a4cb1b8736b90ef4aa97f~mv2.png/v1/fill/w_640,h_342,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3bb8b6_dbb77ee75d9a4cb1b8736b90ef4aa97f~mv2.png" style="width:100px;"></td>
+    <td><img src="https://www.thesslstores.com.au/content/images/cwatch-owasp-logo.svg" style="width:100px;"></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjH0fxjWMo6K-sWs6YsOpjl4-RA2cfrEiBbA&s" style="width:100px;"></td>
+    <td><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqvdLHYP0JSYskR6vIaD-l3PAVzDVLrVL3PKl_V2cm56Z7IIKZQkHigkS57T_Z2TKoGWboDSiHbXp2ZQtfWWXDHJW84PLNMG9O5VXY1B0S6veKNnX-u0NQgtYwsHMTAHzVU09t3cTkaNv2gYgKi1pGkcMx-NxjeuEt5w47ZW80VOlHae91GrBuw-A_-YA/w0/SQLmap.png" style="width:100px;"></td>
+  </tr>
+</table>
 <br>
 <br>
 <p>Portofolio Page : <span><a href="https://portofolio-nine-plum.vercel.app/">Go to page</a></span></p>
