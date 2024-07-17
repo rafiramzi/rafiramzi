@@ -34,6 +34,7 @@
   <li>XSS Injection</li>
   <li>SQL Injection</li>
   <li>Payloads</li>
+  <li>Phishing</li>
 </ul>
 <br>
 <br>
