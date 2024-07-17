@@ -31,6 +31,7 @@
   <li>Web Penetration</li>
   <li>Bruteforce</li>
   <li>RAT</li>
+  <li>Malware</li>
   <li>XSS Injection</li>
   <li>SQL Injection</li>
   <li>Payloads</li>
