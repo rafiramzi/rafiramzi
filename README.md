@@ -24,6 +24,14 @@
   </tr>
 </table>
 <br>
+<b>Web penetration tools</b>
+<table>
+  <tr>
+    <td><img src="https://www.thesslstores.com.au/content/images/cwatch-owasp-logo.svg" style="width:50px;"></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjH0fxjWMo6K-sWs6YsOpjl4-RA2cfrEiBbA&s" style="width:50px;"></td>
+  </tr>
+</table>
+<br>
 <p>Cybersecurity Skills</p>
 <ul>
   <li>MITM</li>
