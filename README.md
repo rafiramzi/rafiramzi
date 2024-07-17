@@ -24,8 +24,16 @@
   </tr>
 </table>
 <br>
+<p>Cybersecurity Skills</p>
 <ul>
   <li>MITM</li>
+  <li>OSINT</li>
+  <li>Web Penetration</li>
+  <li>Bruteforce</li>
+  <li>RAT</li>
+  <li>XSS Injection</li>
+  <li>SQL Injection</li>
+  <li>Payloads</li>
 </ul>
 <br>
 <br>
