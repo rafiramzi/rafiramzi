@@ -35,6 +35,8 @@
   <li>SQL Injection</li>
   <li>Payloads</li>
   <li>Phishing</li>
+  <li>Network</li>
+  <li>Scraping</li>
 </ul>
 <br>
 <br>
