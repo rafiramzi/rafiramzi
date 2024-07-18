@@ -1,6 +1,6 @@
 ## Rafi Ramzi
 <p>Backend Developer, Cyber Sec, Hacking tools</p>
-<img src="https://www.itsasap.com/hs-fs/hubfs/cybersecurity%20framework.gif?width=778&name=cybersecurity%20framework.gif" style="width:100%;">
+<img src="https://omegasystemscorp.com/wp-content/uploads/2022/09/inner-banner.jpg" style="width:100%;">
 <p>Language Skills</p>
 <table>
   <thead>
