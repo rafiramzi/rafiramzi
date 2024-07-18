@@ -3,7 +3,7 @@
 <b>Language Skills</b>
 <table>
   <th>
-    Laravel
+    <td>CSharp</td>
   </th>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" style="width:50px;"></td>
