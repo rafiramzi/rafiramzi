@@ -26,7 +26,7 @@
 <table>
    <thead>
     <th>.NET</th>
-    <th>DjangoT</th>
+    <th>Django</th>
     <th>Laravel</th>
     <th>Svelte</th>
     <th>Flutter</th>
