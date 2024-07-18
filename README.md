@@ -24,6 +24,13 @@
 <br>
 <b>Frameworks</b>
 <table>
+   <thead>
+    <th>.NET</th>
+    <th>DjangoT</th>
+    <th>Laravel</th>
+    <th>Svelte</th>
+    <th>Flutter</th>
+  </thead>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png?20200524040737" style="width:50px;"></td>
     <td><img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" style="width:50px;"></td>
