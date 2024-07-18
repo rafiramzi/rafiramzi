@@ -1,6 +1,6 @@
 ## Rafi Ramzi
 <p>Backend Developer, Cyber Sec, Hacking tools</p>
-<b>Language Skills</b>
+<p>Language Skills</p>
 <table>
   <thead>
     <th>CSharp</th>
@@ -22,7 +22,7 @@
   </tr>
 </table>
 <br>
-<b>Frameworks</b>
+<p>Frameworks</p>
 <table>
    <thead>
     <th>.NET</th>
@@ -57,7 +57,7 @@
   <li>Scraping</li>
 </ul>
 <br>
-<b>Web penetration tools</b>
+<p>Web penetration tools</p>
 <table>
   <tr>
     <td><img src="https://static.wixstatic.com/media/3bb8b6_dbb77ee75d9a4cb1b8736b90ef4aa97f~mv2.png/v1/fill/w_640,h_342,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3bb8b6_dbb77ee75d9a4cb1b8736b90ef4aa97f~mv2.png" style="width:100px;"></td>
