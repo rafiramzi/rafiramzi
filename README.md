@@ -1,4 +1,3 @@
-<img src="https://omegasystemscorp.com/wp-content/uploads/2022/09/inner-banner.jpg" style="width:100%;">
 ## Rafi Ramzi
 <p>Backend Developer, Cyber Sec, Hacking tools</p>
 <p>Language Skills</p>
