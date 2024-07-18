@@ -2,9 +2,9 @@
 <p>Backend Developer, Cyber Sec, Hacking tools</p>
 <b>Language Skills</b>
 <table>
-  <th>
-    <td>CSharp</td>
-  </th>
+  <thead>
+    <th>CSharp</th>
+  </thead>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" style="width:50px;"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="width:50px;"></td>
