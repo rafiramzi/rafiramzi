@@ -9,6 +9,7 @@
     <th>PHP</th>
     <th>Dart</th>
     <th>Java</th>
+    <th>Ruby</th>
     <th>SQL</th>
   </thead>
   <tr>
@@ -18,6 +19,7 @@
     <td><img src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-zjxns1zh.png" style="width:50px;"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" style="width:50px;"></td>
     <td><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="width:50px;"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/240px-Ruby_logo.svg.png" style="width:100px;"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="width:100px;"></td>
   </tr>
 </table>
