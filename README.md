@@ -31,6 +31,7 @@
     <th>Django</th>
     <th>Laravel</th>
     <th>Svelte</th>
+    <th>Ruby On Rails</th>
     <th>Flutter</th>
   </thead>
   <tr>
