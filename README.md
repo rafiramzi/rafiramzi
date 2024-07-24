@@ -45,10 +45,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rafiramzi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 <br>
 <p>Cybersecurity Skills</p>
 <ul>
@@ -66,6 +62,11 @@
   <li>Network</li>
   <li>Scraping</li>
 </ul>
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rafiramzi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 <br>
 <p>Web penetration tools</p>
 <table>
