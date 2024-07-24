@@ -63,10 +63,6 @@
   <li>Scraping</li>
 </ul>
 <br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rafiramzi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 <br>
 <p>Web penetration tools</p>
 <table>
@@ -80,3 +76,8 @@
 <br>
 <br>
 <p>Portofolio Page : <span><a href="https://rafiramzi-portofolio.vercel.app">Go to page</a></span></p>
+<br>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rafiramzi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
