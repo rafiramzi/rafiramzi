@@ -1,6 +1,5 @@
 ## Rafi Ramzi
 <p>Fullstack Developer, Cyber Sec, Hacking tools</p>
-###
 
 <p>Language Skills</p>
 <table>
@@ -45,6 +44,11 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/1200px-Flutter_logo.svg.png" style="width:50px;"></td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rafiramzi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 <br>
 <p>Cybersecurity Skills</p>
 <ul>
