@@ -1,8 +1,5 @@
 ## Rafi Ramzi
 <p>Fullstack Developer, Cyber Sec, Hacking tools</p>
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=rafiramzi&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-</a>
 <img src="cont.svg" />
 <br>
 <br>
@@ -84,6 +81,9 @@
 <p>Portofolio Page : <span><a href="https://rafiramzi-portofolio.vercel.app">Go to page</a></span></p>
 <br>
 <br>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=rafiramzi&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
 <div align="center">
   <img align="center" height=97 src="https://github-profile-trophy.vercel.app/?username=rafiramzi&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
   <img src="https://streak-stats.demolab.com?user=rafiramzi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
