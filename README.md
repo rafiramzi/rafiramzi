@@ -47,7 +47,6 @@
   </tr>
 </table>
 <br>
-<br>
 <p>Web penetration tools</p>
 <table>
   <tr>
