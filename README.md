@@ -2,8 +2,8 @@
 <p>Fullstack Developer, Cyber Sec, Hacking tools</p>
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=rafiramzi&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
-<a href=#><img src="contributions.svg"></a>
-
+<br>
+<br>
 <p>Language Skills</p>
 <table>
   <thead>
