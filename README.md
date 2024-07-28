@@ -1,8 +1,6 @@
 ## Rafi Ramzi
 <p>Fullstack Developer, Cyber Sec, Hacking tools</p>
 <img src="cont.svg" />
-<img align="center" height=97 src="https://github-profile-trophy.vercel.app/?username=rafiramzi&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
-
 <br>
 <br>
 <p>Language Skills</p>
@@ -83,6 +81,7 @@
 <br>
 <br>
 <div align="center">
+  <img align="center" height=97 src="https://github-profile-trophy.vercel.app/?username=rafiramzi&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
   <img src="https://streak-stats.demolab.com?user=rafiramzi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <br>
