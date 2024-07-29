@@ -84,6 +84,7 @@
 <div align="center">
   <img align="center" height=97 src="https://github-profile-trophy.vercel.app/?username=rafiramzi&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
   <img src="https://streak-stats.demolab.com?user=rafiramzi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=rafiramzi&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </div>
 <br>
 <p align="center">
