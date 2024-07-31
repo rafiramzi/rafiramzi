@@ -1,6 +1,7 @@
 ## Rafi Ramzi
 <p>Fullstack Developer, Cyber Sec, Hacking tools</p>
 <img src="cont.svg" />
+<a href="https://app.daily.dev/rafiramzii"><img src="https://api.daily.dev/devcards/v2/UAAlsapME7J3lqHCs6ubS.png?type=wide&r=bb7" width="652" alt="Rafi Ramzi's Dev Card"/></a>
 <br>
 <br>
 <p>Language Skills</p>
