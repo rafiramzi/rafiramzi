@@ -1,5 +1,4 @@
 ![github-header-image (2)](https://github.com/user-attachments/assets/9057d749-a0ff-4fbb-bd16-2ab737e813d5)
-<p>Fullstack Developer, Cyber Sec, Hacking tools</p>
 <br>
 <br>
 <p>Language Skills</p>
