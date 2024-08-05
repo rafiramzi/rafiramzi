@@ -43,6 +43,7 @@
     <th>Next.js</th>
     <th>RoR</th>
     <th>Flutter</th>
+    <th>Maven</th>
   </thead>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png?20200524040737" style="width:50px;"></td>
@@ -52,6 +53,7 @@
     <td><img src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png" style="width:50px;"></td>
     <td style="justify-center; item:center;"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/rubyonrails_icon_130839.png" style="width:50px;"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/1200px-Flutter_logo.svg.png" style="width:50px;"></td>
+    <td style="background-color:white;"><img src="https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png" style="width:50px;"></td>
   </tr>
 </table>
 <br>
