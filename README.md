@@ -15,6 +15,8 @@
     <th>Java</th>
     <th>Ruby</th>
     <th>SQL</th>
+    <th>Bash Script</th>
+    <th>Batch Script</th>
   </thead>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" style="width:50px;"></td>
@@ -26,6 +28,8 @@
     <td><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="width:50px;"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/240px-Ruby_logo.svg.png" style="width:50px;"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="width:100px;"></td>
+    <td><img src="https://i0.wp.com/cachecrew.com/blog/wp-content/uploads/2023/03/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?fit=528%2C528&ssl=1" style="width:60px;"></td>
+    <td><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMvq7VE5vv9agOQAmpJS-w9RRyCUSMvOXFSj44Guch65r7_LthFRJw5HHf5fXrqwub_MnzBjOe77D_pxh9dlHbsd3xWQBX-O8YLywQH9r-nKXqvYXnzW2-EMvUuF7GNmPkEO_Rd5BU80s/s1600/mozhi-commandprompt1.png" style="width:50px;"></td>
   </tr>
 </table>
 <br>
