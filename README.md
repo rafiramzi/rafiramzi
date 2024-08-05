@@ -8,6 +8,7 @@
   <thead>
     <th>CSharp</th>
     <th>Javascript</th>
+    <th>TypeScript</th>
     <th>Python</th>
     <th>PHP</th>
     <th>Dart</th>
@@ -18,6 +19,7 @@
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" style="width:50px;"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="width:50px;"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="width:50px"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="width:50px;"></td>
     <td><img src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-zjxns1zh.png" style="width:50px;"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" style="width:50px;"></td>
