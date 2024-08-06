@@ -97,7 +97,3 @@
 ---
 
 <br>
-<p>Portofolio Page : <span><a href="https://rafiramzi-portofolio.vercel.app">Go to page</a></span></p>
-<br>
-<br>
-<br>
