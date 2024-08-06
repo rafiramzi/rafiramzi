@@ -91,7 +91,7 @@
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <img src="https://streak-stats.demolab.com?user=rafiramzi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
   <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=rafiramzi&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
-    <img width='70%' alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafiramzi&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Playtime%20Stats">
+  
 </div>
 
 ---
