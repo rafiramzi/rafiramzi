@@ -92,7 +92,6 @@
   <img src="https://streak-stats.demolab.com?user=rafiramzi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
   <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=rafiramzi&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafiramzi&border_radius=5px&theme=dark&bg_color=0e1117&border_color=1e1e1f&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Playtime%20Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiramzi&locale=en&hide_title=false&layout=compact&card_width=320&theme=vision-friendly-dark&langs_count=5&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ---
