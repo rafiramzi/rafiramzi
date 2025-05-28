@@ -97,7 +97,7 @@
 ---
 
 <br>
-<img width="1170 src="https://github.com/user-attachments/assets/7ebcd35b-23ac-4ad4-8033-42d6d88ff9cc">
+<img width="1170" src="https://github.com/user-attachments/assets/7ebcd35b-23ac-4ad4-8033-42d6d88ff9cc">
 <img width="1170" alt="Screenshot 2024-08-21 at 11 24 36 PM" src="https://github.com/user-attachments/assets/6c376b29-75f7-4065-b98e-21dd3d43b899">
 
 
