@@ -13,7 +13,6 @@
     <th>PHP</th>
     <th>Dart</th>
     <th>Java</th>
-    <th>Ruby</th>
     <th>SQL</th>
     <th>Bash Script</th>
     <th>Golang</th>
@@ -21,12 +20,12 @@
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/500px-Logo_C_sharp.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" style="width:50px;"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="width:50px;"></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="width:50px"></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="width:50px;"></td>
-    <td><img src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-zjxns1zh.png" style="width:50px;"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" style="width:50px"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png" style="width:50px;"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" style="width:50px;"></td>
     <td><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="width:50px;"></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/240px-Ruby_logo.svg.png" style="width:50px;"></td>
+</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="width:100px;"></td>
     <td><img src="https://i0.wp.com/cachecrew.com/blog/wp-content/uploads/2023/03/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?fit=528%2C528&ssl=1" style="width:60px;"></td>
     <td><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMvq7VE5vv9agOQAmpJS-w9RRyCUSMvOXFSj44Guch65r7_LthFRJw5HHf5fXrqwub_MnzBjOe77D_pxh9dlHbsd3xWQBX-O8YLywQH9r-nKXqvYXnzW2-EMvUuF7GNmPkEO_Rd5BU80s/s1600/mozhi-commandprompt1.png" style="width:50px;"></td>
