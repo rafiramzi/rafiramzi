@@ -16,7 +16,7 @@
     <th>Ruby</th>
     <th>SQL</th>
     <th>Bash Script</th>
-    <th>Batch Script</th>
+    <th>Golang</th>
   </thead>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/500px-Logo_C_sharp.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" style="width:50px;"></td>
