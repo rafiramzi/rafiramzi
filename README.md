@@ -50,7 +50,7 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1280px-Svelte_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" style="width:50px;"></td>
     <td><img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2148%2FPNG%2F512%2Fnextjs_icon_132160.png&id=132160&pack_or_individual=pack" style="width:50px;"></td>
 </td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/1200px-Flutter_logo.svg.png" style="width:50px;"></td>
+    <td><img src="https://images.icon-icons.com/2108/PNG/512/flutter_icon_130936.png" style="width:50px;"></td>
     <td style="background-color:white;"><img src="https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png" style="width:50px;"></td>
   </tr>
 </table>
