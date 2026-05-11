@@ -46,7 +46,7 @@
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/250px-Microsoft_.NET_logo.svg.png" style="width:50px;"></td>
     <td><img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" style="width:50px;"></td>
-    <td><img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" style="width:50px;"></td>
+    <td><img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" style="width:80px;"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1280px-Svelte_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" style="width:50px;"></td>
     <td><img src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png" style="width:50px;"></td>
 </td>
